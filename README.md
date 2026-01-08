@@ -1,12 +1,30 @@
-## 🤝 Open Source Contributions
+## 🛠️ Major Project Contributions
 
-I am an active contributor to the **SORMAS (Surveillance Outbreak Response Management and Analysis System)** ecosystem, focusing on software quality, bug reporting, and functional requirements.
+### 📊 [SORMAS-Stats-next-gen](https://github.com/hzi-braunschweig/SORMAS-Stats-next-gen)
+**Inventor & Lead Developer**
 
-### [SORMAS-Project](https://github.com/SORMAS-Foundation/SORMAS-Project)
-* **Role:** Technical Contributor (Issue Tracking & QA)
-* **Impact:** Identified and documented numerous technical issues across 20+ pages of activity, helping improve the stability of the foundation's core platform.
-* 🔍 **[View all my reported issues here](https://github.com/SORMAS-Foundation/SORMAS-Project/issues?q=author:bernardsilenou)**
+I conceived and developed the **SORMAS-Stats** ecosystem to provide advanced statistical capabilities for the core platform. As the primary architect, I led the end-to-end development lifecycle:
 
-### [SORMAS-Stats-next-gen](https://github.com/hzi-braunschweig/SORMAS-Stats-next-gen)
-* **Role:** Contributor
-* **Focus:** Statistical analysis extensions for the SORMAS ecosystem.
+* **System Invention:** Conceptualised the framework to bridge epidemiological data with real-time statistical analysis.
+* **Core Engineering:** Authored the primary source code and algorithms for automated reporting and data visualisation.
+* **Database Integration:** Designed and implemented seamless integration layers with the **SORMAS PostgreSQL database**.
+* **DevOps:** Architected the **Docker application** and containerization strategy for scalable deployment.
+
+---
+
+### 🏥 [SORMAS-Project](https://github.com/SORMAS-Foundation/SORMAS-Project) 
+**Technical Contributor | Issue Development & QA**
+
+I played a key role in the software quality and requirements engineering of the SORMAS ecosystem, bridging the gap between functional needs and technical implementation.
+
+* **Issue Development:** Drafted detailed technical specifications and bug reports to guide development sprints.
+* **Quality Assurance (QA):** Identified edge cases and validated fixes to ensure platform stability for global outbreak management.
+* **Project Tracking:** Monitored and managed the lifecycle of over **500+ technical interactions** across 20+ pages of history.
+* 🔍 **[Archive of my reported issues](https://github.com/SORMAS-Foundation/SORMAS-Project/issues?q=author:bernardsilenou)**
+
+---
+
+## 📈 My GitHub Activity
+![Bernard's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=bernardsilenou&show_icons=true&theme=radical)
+
+![Bernard's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardsilenou&show_icons=true&theme=radical)
