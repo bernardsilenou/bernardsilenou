@@ -20,6 +20,7 @@ I conceived and developed the **SORMAS-Stats** ecosystem to provide advanced sta
 * **Core Engineering:** Authored the primary source code and algorithms for automated reporting and data visualisation.
 * **Database Integration:** Designed and implemented seamless integration layers with the **SORMAS PostgreSQL database**.
 * **DevOps:** Architected the **Docker application** and containerization strategy for scalable deployment.
+* * 🔍 **[Archive of my reported issues](https://github.com/hzi-braunschweig/SORMAS-Stats-next-gen/issues?q=is%3Aissue%20author%3Abernardsilenou)**
 
 ---
 
